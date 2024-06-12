@@ -354,15 +354,16 @@ header .main-menu .item .item__contents .contents__texture p{
 
 header .badges{
 
-position:relative;
-padding :3px 0;
+position:absolute;
+top:132px;
+right:12px;
 }
-header .badge{
+header .badges .badge{
   right:0;
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 12px;
-  position:absolute;
+  
   box-shadow: 4px 4px 10px rgba(0,0,0,.15);
   cursor: pointer;
 }
