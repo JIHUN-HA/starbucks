@@ -7,17 +7,4 @@ html css javascript를 배우고 처음 진행하는 프로젝트이다 보니 �
 
 [링크](https://hotg.netlify.app/)
 
-#목록(List)
 
-1. 순서가 필요한 목록
-1. 순서가 필요한 목록
-    1. 순서가 필요한 목록
-    1. 순서가 필요한 목록
-    1. 순서가 필요한 목록
-
-1. 순서가 필요한 목록
-1. 순서가 필요한 목록
-
- # 링크(Links)
-
- [Google](https://google.co.kr)
